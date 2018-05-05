@@ -7,4 +7,8 @@
   <ItemGroup>
     <PackageReference Include="Antlr4.Runtime.Standard" Version="4.7.1.1" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ANTLR\BuildingBlocks\BuildingBlocks.csproj" />
+  </ItemGroup>
 </Project>

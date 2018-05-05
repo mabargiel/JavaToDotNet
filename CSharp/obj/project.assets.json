@@ -208,6 +208,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BuildingBlocks/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Antlr4.Runtime.Standard": "4.7.1.1"
+        },
+        "compile": {
+          "bin/placeholder/BuildingBlocks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuildingBlocks.dll": {}
+        }
       }
     }
   },
@@ -681,11 +694,17 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BuildingBlocks/1.0.0": {
+      "type": "project",
+      "path": "../ANTLR/BuildingBlocks/BuildingBlocks.csproj",
+      "msbuildProject": "../ANTLR/BuildingBlocks/BuildingBlocks.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Antlr4.Runtime.Standard >= 4.7.1.1",
+      "BuildingBlocks >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -716,7 +735,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/BuildingBlocks.csproj": {
+              "projectPath": "/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/BuildingBlocks.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
