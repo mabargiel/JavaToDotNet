@@ -34,3 +34,5 @@ msbuild.wrn
 
 # Rider
 .rider/
+
+\.idea/\.idea\.JavaToCSharp/\.idea/

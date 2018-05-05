@@ -157,27 +157,27 @@ public partial class Java8Lexer : Lexer {
 			decisionToDFA[i] = new DFA(_ATN.GetDecisionState(i), i);
 		}
 	}
-	public override bool Sempred(RuleContext _localctx, int ruleIndex, int predIndex) {
-		switch (ruleIndex) {
-		case 146 : return JavaLetter_sempred(_localctx, predIndex);
-		case 147 : return JavaLetterOrDigit_sempred(_localctx, predIndex);
-		}
-		return true;
-	}
-	private bool JavaLetter_sempred(RuleContext _localctx, int predIndex) {
-		switch (predIndex) {
-		case 0: return Character.isJavaIdentifierStart(_input.LA(-1));
-		case 1: return Character.isJavaIdentifierStart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
-		}
-		return true;
-	}
-	private bool JavaLetterOrDigit_sempred(RuleContext _localctx, int predIndex) {
-		switch (predIndex) {
-		case 2: return Character.isJavaIdentifierPart(_input.LA(-1));
-		case 3: return Character.isJavaIdentifierPart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
-		}
-		return true;
-	}
+//	public override bool Sempred(RuleContext _localctx, int ruleIndex, int predIndex) {
+//		switch (ruleIndex) {
+//		case 146 : return JavaLetter_sempred(_localctx, predIndex);
+//		case 147 : return JavaLetterOrDigit_sempred(_localctx, predIndex);
+//		}
+//		return true;
+//	}
+//	private bool JavaLetter_sempred(RuleContext _localctx, int predIndex) {
+//		switch (predIndex) {
+//		case 0: return Character.isJavaIdentifierStart(_input.LA(-1));
+//		case 1: return Character.isJavaIdentifierStart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
+//		}
+//		return true;
+//	}
+//	private bool JavaLetterOrDigit_sempred(RuleContext _localctx, int predIndex) {
+//		switch (predIndex) {
+//		case 2: return Character.isJavaIdentifierPart(_input.LA(-1));
+//		case 3: return Character.isJavaIdentifierPart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
+//		}
+//		return true;
+//	}
 
 	private static char[] _serializedATN = {
 		'\x3', '\x608B', '\xA72A', '\x8133', '\xB9ED', '\x417C', '\x3BE7', '\x7786', 
