@@ -1,0 +1,4 @@
+/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csprojResolveAssemblyReference.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfo.cs

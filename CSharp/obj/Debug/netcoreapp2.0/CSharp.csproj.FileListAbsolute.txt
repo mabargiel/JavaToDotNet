@@ -1,0 +1,9 @@
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.csprojResolveAssemblyReference.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfoInputs.cache
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfo.cs
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.deps.json
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.dll
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.pdb
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.dll
+/Users/mateuszbargiel/Projects/JavaToCSharp/CSharp/obj/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.pdb

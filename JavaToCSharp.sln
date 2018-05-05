@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ANTLR", "ANTLR", "{1880F6D9-F087-41FC-BD22-F15CE4C78827}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Translators", "Translators", "{88704741-F961-483A-8FB4-C323B415E02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{D0592204-8EA5-4157-B38D-59884E0C86DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks", "ANTLR\BuildingBlocks\BuildingBlocks.csproj", "{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0592204-8EA5-4157-B38D-59884E0C86DE} = {88704741-F961-483A-8FB4-C323B415E02A}
+		{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7} = {1880F6D9-F087-41FC-BD22-F15CE4C78827}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0592204-8EA5-4157-B38D-59884E0C86DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0592204-8EA5-4157-B38D-59884E0C86DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0592204-8EA5-4157-B38D-59884E0C86DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0592204-8EA5-4157-B38D-59884E0C86DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FBF5DB-09C1-4DE5-B274-DE2E3223C3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

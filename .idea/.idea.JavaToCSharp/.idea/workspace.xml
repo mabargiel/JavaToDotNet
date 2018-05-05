@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cccb97-9669-4f6c-9668-6a99689a68ec" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JavaToCSharp/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JavaToCSharp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JavaToCSharp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JavaToCSharp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.JavaToCSharp/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/BuildingBlocks.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/Java8BaseListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/Java8Lexer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/Java8Listener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/Java8Parser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/gen/Java8.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/gen/Java8.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/gen/Java8.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/gen/Java8Lexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/gen/Java8Lexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/ANTLR.BuildingBlocks.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/ANTLR.BuildingBlocks.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/ANTLR.BuildingBlocks.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/BuildingBlocks.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/ANTLR.BuildingBlocks.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/ANTLR.BuildingBlocks.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/ANTLR.BuildingBlocks.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/ANTLR.BuildingBlocks.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANTLR/BuildingBlocks/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/CSharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/bin/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/CSharp.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/CSharp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/CSharp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/CSharp.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/Debug/netcoreapp2.0/JavaToDotNet.Translators.CSharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSharp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaToCSharp.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="JavaToCSharp.sln" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaToCSharp.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="84" lean-forward="true" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.tokens</find>
+      <find>.g4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Class1.cs" />
+        <option value="$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8Lexer.cs" />
+        <option value="$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8Parser.cs" />
+        <option value="$PROJECT_DIR$/JavaToCSharp.sln" />
+        <option value="$PROJECT_DIR$/CSharp/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="494" />
+    <option name="y" value="185" />
+    <option name="width" value="1440" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="JavaToCSharp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="JavaToCSharp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ANTLR" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="JavaToCSharp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ANTLR" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BuildingBlocks" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="JavaToCSharp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Translators" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="JavaToCSharp (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Translators" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cccb97-9669-4f6c-9668-6a99689a68ec" name="Default" comment="" />
+      <created>1525510230470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525510230470</updated>
+      <workItem from="1525510233500" duration="183000" />
+      <workItem from="1525510462797" duration="2962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3145000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Tool Output" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.16996337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14058776" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="ANTLR Preview" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ANTLR/CSharpLexer.g4">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/CSharpParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#24119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/CSharpPreprocessorParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/Java8.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8BaseListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="193" column="63" selection-start-line="193" selection-start-column="63" selection-end-line="193" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/gen/Java8.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/gen/Java8Lexer.interp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/gen/Java8Lexer.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/gen/Java8.interp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8Parser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8Listener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="163" column="63" selection-start-line="163" selection-start-column="63" selection-end-line="163" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/Java8Lexer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="143" column="73" selection-start-line="143" selection-start-column="70" selection-end-line="143" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANTLR/BuildingBlocks/ANTLR.BuildingBlocks/gen/Java8.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharp/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaToCSharp.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="84" lean-forward="true" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
