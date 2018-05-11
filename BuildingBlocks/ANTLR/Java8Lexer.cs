@@ -175,8 +175,8 @@ public partial class Java8Lexer : Lexer {
 	}
 	private bool JavaLetterOrDigit_sempred(RuleContext _localctx, int predIndex) {
 		switch (predIndex) {
-		case 2: return Character.IsJavaIdentifierPart(this.InputStream.LA(-1));
-		case 3: return Character.IsJavaIdentifierPart(Character.ToCodePoint((char)this.InputStream.LA(-2), (char)this.InputStream.LA(-1)));
+		case 2: return Character.IsValidIdentifierPart(this.InputStream.LA(-1));
+		case 3: return Character.IsValidIdentifierPart(Character.ToCodePoint((char)this.InputStream.LA(-2), (char)this.InputStream.LA(-1)));
 		}
 		return true;
 	}
