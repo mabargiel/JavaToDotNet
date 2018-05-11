@@ -253,7 +253,7 @@ public partial class Java8Parser : Parser {
 		}
 	}
 
-	public override string GrammarFileName { get { return "Java8.g4"; } }
+	public override string GrammarFileName { get { return @"gen\Java8.g4"; } }
 
 	public override string[] RuleNames { get { return ruleNames; } }
 

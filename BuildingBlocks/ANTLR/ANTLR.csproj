@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <AssemblyName>JavaToDotNet.ANTLR.BuildingBlocks</AssemblyName>
-    <RootNamespace>JavaToDotNet.ANTLR.BuildingBlocks</RootNamespace>
+    <AssemblyName>JavaToDotNet.BuildingBlocks.ANTLR</AssemblyName>
+    <RootNamespace>JavaToDotNet.BuildingBlocks.ANTLR</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Antlr4.Runtime.Standard" Version="4.7.1.1" />

@@ -1,10 +1,6 @@
 ﻿using System;
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Text;
 
-namespace JavaToDotNet.ANTLR.BuildingBlocks.Helpers
+namespace JavaToDotNet.BuildingBlocks.ANTLR.Helpers
 {
     public static class Character
     {

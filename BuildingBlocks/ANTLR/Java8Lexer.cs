@@ -25,7 +25,7 @@ using System.Text;
 using Antlr4.Runtime;
 using Antlr4.Runtime.Atn;
 using Antlr4.Runtime.Misc;
-using JavaToDotNet.ANTLR.BuildingBlocks.Helpers;
+using JavaToDotNet.BuildingBlocks.ANTLR.Helpers;
 using DFA = Antlr4.Runtime.Dfa.DFA;
 
 [System.CodeDom.Compiler.GeneratedCode("ANTLR", "4.7.1")]
@@ -143,7 +143,7 @@ public partial class Java8Lexer : Lexer {
 		}
 	}
 
-	public override string GrammarFileName { get { return "Java8.g4"; } }
+	public override string GrammarFileName { get { return @"gen\Java8.g4"; } }
 
 	public override string[] RuleNames { get { return ruleNames; } }
 
