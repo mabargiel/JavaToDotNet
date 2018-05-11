@@ -3,13 +3,8 @@ using System.Text;
 
 namespace JavaToDotNet.Translators.CSharp
 {
-    public class CSharpJava8Listener : Java8BaseListener
+    public class CSharpJava8Visitor : Java8BaseVisitor<string>
     {
-        private readonly StringBuilder _strBuilder;
 
-        public CSharpJava8Listener(StringBuilder strBuilder)
-        {
-            _strBuilder = strBuilder;
-        }
     }
 }
