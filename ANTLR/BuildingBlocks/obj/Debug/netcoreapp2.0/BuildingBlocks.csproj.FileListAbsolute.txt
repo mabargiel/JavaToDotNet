@@ -1,9 +1,0 @@
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csprojResolveAssemblyReference.cache
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.csproj.CoreCompileInputs.cache
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfoInputs.cache
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/BuildingBlocks.AssemblyInfo.cs
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/bin/Debug/netcoreapp2.0/JavaToDotNet.ANTLR.BuildingBlocks.deps.json
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/bin/Debug/netcoreapp2.0/JavaToDotNet.ANTLR.BuildingBlocks.dll
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/bin/Debug/netcoreapp2.0/JavaToDotNet.ANTLR.BuildingBlocks.pdb
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/JavaToDotNet.ANTLR.BuildingBlocks.dll
-/Users/mateuszbargiel/Projects/JavaToCSharp/ANTLR/BuildingBlocks/obj/Debug/netcoreapp2.0/JavaToDotNet.ANTLR.BuildingBlocks.pdb

@@ -25,12 +25,14 @@ using System.Text;
 using Antlr4.Runtime;
 using Antlr4.Runtime.Atn;
 using Antlr4.Runtime.Misc;
+using JavaToDotNet.ANTLR.BuildingBlocks.Helpers;
 using DFA = Antlr4.Runtime.Dfa.DFA;
 
 [System.CodeDom.Compiler.GeneratedCode("ANTLR", "4.7.1")]
 [System.CLSCompliant(false)]
 public partial class Java8Lexer : Lexer {
-	protected static DFA[] decisionToDFA;
+
+    protected static DFA[] decisionToDFA;
 	protected static PredictionContextCache sharedContextCache = new PredictionContextCache();
 	public const int
 		ABSTRACT=1, ASSERT=2, BOOLEAN=3, BREAK=4, BYTE=5, CASE=6, CATCH=7, CHAR=8, 
@@ -141,7 +143,7 @@ public partial class Java8Lexer : Lexer {
 		}
 	}
 
-	public override string GrammarFileName { get { return "./gen/Java8.g4"; } }
+	public override string GrammarFileName { get { return "Java8.g4"; } }
 
 	public override string[] RuleNames { get { return ruleNames; } }
 
@@ -157,27 +159,27 @@ public partial class Java8Lexer : Lexer {
 			decisionToDFA[i] = new DFA(_ATN.GetDecisionState(i), i);
 		}
 	}
-//	public override bool Sempred(RuleContext _localctx, int ruleIndex, int predIndex) {
-//		switch (ruleIndex) {
-//		case 146 : return JavaLetter_sempred(_localctx, predIndex);
-//		case 147 : return JavaLetterOrDigit_sempred(_localctx, predIndex);
-//		}
-//		return true;
-//	}
-//	private bool JavaLetter_sempred(RuleContext _localctx, int predIndex) {
-//		switch (predIndex) {
-//		case 0: return Character.isJavaIdentifierStart(_input.LA(-1));
-//		case 1: return Character.isJavaIdentifierStart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
-//		}
-//		return true;
-//	}
-//	private bool JavaLetterOrDigit_sempred(RuleContext _localctx, int predIndex) {
-//		switch (predIndex) {
-//		case 2: return Character.isJavaIdentifierPart(_input.LA(-1));
-//		case 3: return Character.isJavaIdentifierPart(Character.toCodePoint((char)_input.LA(-2), (char)_input.LA(-1)));
-//		}
-//		return true;
-//	}
+	public override bool Sempred(RuleContext _localctx, int ruleIndex, int predIndex) {
+		switch (ruleIndex) {
+		case 146 : return JavaLetter_sempred(_localctx, predIndex);
+		case 147 : return JavaLetterOrDigit_sempred(_localctx, predIndex);
+		}
+		return true;
+	}
+	private bool JavaLetter_sempred(RuleContext _localctx, int predIndex) {
+		switch (predIndex) {
+		case 0: return Character.IsValidIndetifierStart(Convert.ToChar(this.InputStream.LA(-1)));
+		case 1: return Character.IsValidIndetifierStart(Character.ToCodePoint((char)this.InputStream.LA(-2), (char)this.InputStream.LA(-1)));
+		}
+		return true;
+	}
+	private bool JavaLetterOrDigit_sempred(RuleContext _localctx, int predIndex) {
+		switch (predIndex) {
+		case 2: return Character.IsJavaIdentifierPart(this.InputStream.LA(-1));
+		case 3: return Character.IsJavaIdentifierPart(Character.ToCodePoint((char)this.InputStream.LA(-2), (char)this.InputStream.LA(-1)));
+		}
+		return true;
+	}
 
 	private static char[] _serializedATN = {
 		'\x3', '\x608B', '\xA72A', '\x8133', '\xB9ED', '\x417C', '\x3BE7', '\x7786', 
@@ -1116,6 +1118,4 @@ public partial class Java8Lexer : Lexer {
 
 	public static readonly ATN _ATN =
 		new ATNDeserializer().Deserialize(_serializedATN);
-
-
 }
