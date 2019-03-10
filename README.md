@@ -35,13 +35,11 @@ W tym przypadku problem można było rozwiązać poprzez adnotacje [ScriptIgnore
 
 strictfp nie jest w żaden sposób wspierany w C#. (zobacz rozwiązanie dla niewspieranych słów kluczowych )
 
-	c) argument metody z trzema kropkami (...)
-
 nie wspierane w C# ( zobacz rozwiązanie dla niewspieranych słów kluczowych )
 
-	d) Niejasne sformułowania gramatyk, które w wygenerowanym parserze nie działały w odpowiedni sposób. przykład:
+	c) Niejasne sformułowania gramatyk, które w wygenerowanym parserze nie działały w odpowiedni sposób. przykład:
 
-	e) Niewspierane słowa kluczowe
+	d) Niewspierane słowa kluczowe
 
 W takich przypadkach parser rzuca wyjątek NotSupportedException
 
