@@ -37,9 +37,9 @@ strictfp nie jest w żaden sposób wspierany w C#. (zobacz rozwiązanie dla niew
 
 nie wspierane w C# ( zobacz rozwiązanie dla niewspieranych słów kluczowych )
 
-	c) Niejasne sformułowania gramatyk, które w wygenerowanym parserze nie działały w odpowiedni sposób. przykład:
+  c) Niejasne sformułowania gramatyk, które w wygenerowanym parserze nie działały w odpowiedni sposób. przykład:
 
-	d) Niewspierane słowa kluczowe
+  d) Niewspierane słowa kluczowe
 
 W takich przypadkach parser rzuca wyjątek NotSupportedException
 
